@@ -1,5 +1,7 @@
 site_name: my-backstage-docs
 nav:
   - Home: index.md
+  - Introduction: intro.md
+  - Steps: steps.md
 plugins:
   - techdocs-core
