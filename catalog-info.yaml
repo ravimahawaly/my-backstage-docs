@@ -9,3 +9,5 @@ spec:
   type: documentation
   lifecycle: experimental
   owner: user:guest
+  definition:
+    $text: https://github.com/ravimahawaly/my-backstage-docs/blob/main/catalog-info.yaml
