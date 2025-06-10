@@ -3,5 +3,6 @@ nav:
   - Home: index.md
   - Introduction: intro.md
   - Steps: steps.md
+  - Refer: references.md
 plugins:
   - techdocs-core
